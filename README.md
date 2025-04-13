@@ -44,25 +44,23 @@
 
 ### 📫 How to reach me?
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 your.email@example.com
-- 🌐 [Your Portfolio](https://your-website.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 🔗 [LinkedIn](www.linkedin.com/in/vikas-yadav-74498b148)
+- 📧 singhvikas180196@gmail.com
 
 ---
 
 ### 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=two-tier-flask-app)](https://github.com/your-username/two-tier-flask-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-other-project)](https://github.com/your-username/your-other-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualvikas96&repo=two-tier-flask-app)](https://github.com/virtualvikas96/two-tier-flask-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualvikas96&repo=your-other-project)](https://github.com/virtualvikas96/your-other-project)
 
 ---
 
 ### 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=virtualvikas96&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virtualvikas96&theme=radical" />
 </p>
 
 
