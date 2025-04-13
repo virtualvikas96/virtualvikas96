@@ -52,7 +52,6 @@
 ### 📌 Pinned Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualvikas96&repo=two-tier-flask-app)](https://github.com/virtualvikas96/two-tier-flask-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=virtualvikas96&repo=your-other-project)](https://github.com/virtualvikas96/your-other-project)
 
 ---
 
