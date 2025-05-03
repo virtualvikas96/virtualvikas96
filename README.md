@@ -43,7 +43,7 @@
 ### 📫 How to reach me?
 
 - 🔗 [LinkedIn] ( www.linkedin.com/in/vikas-yadav-74498b148 )
-- 📧 singhvikas180196@gmail.com
+- 📧 [E-mail] singhvikas180196@gmail.com
 
 ---
 
