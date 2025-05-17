@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **DevOps Projects, Cloud Infrastructure, and CI/CD pipelines**
 - 🌱 I’m learning advanced **Kubernetes, Argo CD, and Helm**
 - 👯 I’m looking to collaborate on **Open-source DevOps tools**
-- 💬 Ask me about **Docker, Jenkins, Terraform, AWS, Prometheus, Grafana**
+- 💬 Ask me about **Docker, Jenkins, AWS, Prometheus, Grafana**
 
 ---
 
